@@ -1,0 +1,19 @@
+h1 {
+  color: blue;
+  text-align: center;
+  font-size: 48px;
+}
+
+h2 {
+  color: white;
+  background-color: blue;
+  font-style: italic;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+ul {
+  color: lightgray;
+  font-style: italic;
+  font-size: 33px;
+}

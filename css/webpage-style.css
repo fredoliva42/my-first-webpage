@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  background-color: #ffcccc;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: red;
+  border-color: red
+}
+
+h2 {
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+  line-height: normal;
+}
+
+ul {
+    list-style-position: inside;
+}
